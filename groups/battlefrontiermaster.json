@@ -19,6 +19,10 @@
     "fastMove": "BULLET_PUNCH",
     "chargedMoves": ["RETURN", "NIGHT_SLASH"]
 }, {
+    "speciesId": "scizor_mega",
+    "fastMove": "BULLET_PUNCH",
+    "chargedMoves": ["TRAILBLAZE", "NIGHT_SLASH"]
+}, {
     "speciesId": "giratina_altered",
     "fastMove": "SHADOW_CLAW",
     "chargedMoves": ["DRAGON_CLAW", "SHADOW_SNEAK"]
@@ -111,10 +115,6 @@
     "fastMove": "DRAGON_TAIL",
     "chargedMoves": ["BULLDOZE", "OUTRAGE"]
 }, {
-    "speciesId": "abomasnow_mega",
-    "fastMove": "POWDER_SNOW",
-    "chargedMoves": ["WEATHER_BALL_ICE", "ENERGY_BALL"]
-}, {
     "speciesId": "ampharos_mega",
     "fastMove": "VOLT_SWITCH",
     "chargedMoves": ["BRUTAL_SWING", "FOCUS_BLAST"]
@@ -171,10 +171,6 @@
     "fastMove": "THUNDER_SHOCK",
     "chargedMoves": ["THUNDERBOLT", "DOUBLE_IRON_BASH"]
 }, {
-    "speciesId": "avalugg_hisuian",
-    "fastMove": "POWDER_SNOW",
-    "chargedMoves": ["ICY_WIND", "ROCK_SLIDE"]
-}, {
     "speciesId": "rhyperior",
     "fastMove": "MUD_SLAP",
     "chargedMoves": ["BREAKING_SWIPE", "ROCK_WRECKER"]
@@ -191,10 +187,6 @@
     "fastMove": "ASTONISH",
     "chargedMoves": ["NATURES_MADNESS", "PSYSHOCK"]
 }, {
-    "speciesId": "tapu_bulu",
-    "fastMove": "BULLET_SEED",
-    "chargedMoves": ["NATURES_MADNESS", "GRASS_KNOT"]
-}, {
     "speciesId": "primarina",
     "fastMove": "CHARM",
     "chargedMoves": ["HYDRO_CANNON", "DISARMING_VOICE"]
@@ -210,10 +202,6 @@
     "speciesId": "zamazenta_hero",
     "fastMove": "ICE_FANG",
     "chargedMoves": ["CLOSE_COMBAT", "CRUNCH"]
-}, {
-    "speciesId": "latios",
-    "fastMove": "DRAGON_BREATH",
-    "chargedMoves": ["DRAGON_CLAW", "LUSTER_PURGE"]
 }, {
     "speciesId": "zapdos",
     "fastMove": "THUNDER_SHOCK",
