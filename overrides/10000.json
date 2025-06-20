@@ -300,7 +300,7 @@
   },
   {
     "speciesId": "heracross_mega",
-    "chargedMoves": ["CLOSE_COMBAT","ROCK_BLAST"],
+    "chargedMoves": ["UPPER_HAND","ROCK_BLAST"],
     "weight": 1
   },
   {
@@ -343,6 +343,11 @@
     "speciesId": "keldeo_ordinary",
     "fastMove": "POISON_JAB",
     "chargedMoves": ["AQUA_JET","SACRED_SWORD"],
+    "weight": 1
+  },
+  {
+    "speciesId": "kingambit",
+    "chargedMoves": ["FOUL_PLAY","IRON_HEAD"],
     "weight": 1
   },
   {
@@ -390,6 +395,12 @@
   },
   {
     "speciesId": "lugia",
+    "fastMove": "DRAGON_TAIL",
+    "chargedMoves": ["FLY","AEROBLAST"],
+    "weight": 1
+  },
+  {
+    "speciesId": "lugia_shadow",
     "fastMove": "DRAGON_TAIL",
     "chargedMoves": ["FLY","AEROBLAST"],
     "weight": 1
@@ -629,7 +640,7 @@
   {
     "speciesId": "scizor_mega",
     "fastMove": "BULLET_PUNCH",
-    "chargedMoves": ["NIGHT_SLASH","RETURN"],
+    "chargedMoves": ["NIGHT_SLASH","TRAILBLAZE"],
     "weight": 1
   },
   {
@@ -667,7 +678,7 @@
   },
   {
     "speciesId": "steelix_mega",
-    "fastMove": "DRAGON_TAIL",
+    "fastMove": "THUNDER_FANG",
     "chargedMoves": ["PSYCHIC_FANGS","EARTHQUAKE"],
     "weight": 1
   },
