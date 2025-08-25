@@ -69,6 +69,10 @@
     "weight": 1
   },
   {
+    "speciesId": "blastoise_mega",
+    "weight": 1
+  },
+  {
     "speciesId": "blaziken",
     "chargedMoves": ["BLAZE_KICK","BLAST_BURN"],
     "weight": 1
@@ -159,6 +163,10 @@
     "weight": 1
   },
   {
+    "speciesId": "eternatus",
+    "chargedMoves": ["FLAMETHROWER","DYNAMAX_CANNON"]
+  },
+  {
     "speciesId": "excadrill",
     "weight": 1
   },
@@ -233,6 +241,10 @@
   {
     "speciesId": "genesect_shock",
     "chargedMoves": ["MAGNET_BOMB","TECHNO_BLAST_SHOCK"],
+    "weight": 1
+  },
+  {
+    "speciesId": "gengar_mega",
     "weight": 1
   },
   {
@@ -365,6 +377,14 @@
     "speciesId": "kyogre_shadow",
     "fastMove": "WATERFALL",
     "chargedMoves": ["SURF","THUNDER"],
+    "weight": 1
+  },
+  {
+    "speciesId": "kyurem_black",
+    "weight": 1
+  },
+  {
+    "speciesId": "kyurem_white",
     "weight": 1
   },
   {
@@ -705,6 +725,10 @@
     "weight": 1
   },
   {
+    "speciesId": "tapu_lele",
+    "weight": 1
+  },
+  {
     "speciesId": "terrakion",
     "chargedMoves": ["SACRED_SWORD","ROCK_SLIDE"],
     "weight": 1
@@ -778,9 +802,17 @@
     "weight": 1
   },
   {
+    "speciesId": "zacian_crowned_sword",
+    "weight": 1
+  },
+  {
     "speciesId": "zacian_hero",
     "fastMove": "QUICK_ATTACK",
     "chargedMoves": ["WILD_CHARGE","PLAY_ROUGH"],
+    "weight": 1
+  },
+  {
+    "speciesId": "zamazenta_crowned_shield",
     "weight": 1
   },
   {
